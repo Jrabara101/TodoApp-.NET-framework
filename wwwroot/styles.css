@@ -1,0 +1,52 @@
+body {
+	font-family: Poppins;
+	background: linear-gradient(to right, blue, lightblue, darkblue);
+	margin: 0;
+	padding: 20px;
+}
+
+.app {
+	max-width: 1000px;
+	margin: auto;
+	background: #fff;
+	padding: 20px;
+	border-radius: 12px;
+	box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+	text-align: center;
+}
+
+form, .actions {
+	margin-bottom: 20px;
+}
+
+input, select, textarea, button {
+	margin: 5px;
+	padding: 10px;
+	border-radius: 6px;
+	border: 1px solid #ccc;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+	table th, table td {
+		border: 1px solid #ddd;
+		padding: 10px;
+		text-align: center;
+	}
+
+button {
+	cursor: pointer;
+	background: linear-gradient(to right, blue, lightblue, darkblue);
+	color: #fff;
+	border: none;
+}
+
+	button:hover {
+		background: linear-gradient(to right, gray, white, black);
+	}

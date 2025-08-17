@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>To-Do List App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="app">
+        <h1>📋 To-Do List</h1>
+        <form id="taskForm">
+            <input type="text" id="title" placeholder="Task Title" required>
+            <input type="text" id="assignedTo" placeholder="Assigned To">
+            <select id="priority">
+                <option>Low</option>
+                <option selected>Medium</option>
+                <option>High</option>
+            </select>
+            <textarea id="details" placeholder="Task Details"></textarea>
+            <button type="submit">Add Task</button>
+        </form>
+
+        <div class="actions">
+            <button onclick="exportTasks()">⬇ Export</button>
+            <input type="file" id="importFile" onchange="importTasks(event)">
+        </div>
+
+        <table id="taskTable">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Assigned To</th>
+                    <th>Priority</th>
+                    <th>Status</th>
+                    <th>Date Started</th>
+                    <th>Date Completed</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
