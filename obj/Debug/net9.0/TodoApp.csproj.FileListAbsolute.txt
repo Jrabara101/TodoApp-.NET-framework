@@ -25,8 +25,6 @@ D:\TodoApp\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 D:\TodoApp\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
 D:\TodoApp\obj\Debug\net9.0\scopedcss\bundle\TodoApp.styles.css
 D:\TodoApp\obj\Debug\net9.0\compressed\uz7ucipcnp-b2q4465uqx.gz
-D:\TodoApp\obj\Debug\net9.0\compressed\pnohrms5be-6vflux70pc.gz
-D:\TodoApp\obj\Debug\net9.0\compressed\h13s02nul4-5xh7sbnxfm.gz
 D:\TodoApp\obj\Debug\net9.0\staticwebassets.build.json
 D:\TodoApp\obj\Debug\net9.0\staticwebassets.build.json.cache
 D:\TodoApp\obj\Debug\net9.0\staticwebassets.development.json
@@ -37,3 +35,7 @@ D:\TodoApp\obj\Debug\net9.0\refint\TodoApp.dll
 D:\TodoApp\obj\Debug\net9.0\TodoApp.pdb
 D:\TodoApp\obj\Debug\net9.0\TodoApp.genruntimeconfig.cache
 D:\TodoApp\obj\Debug\net9.0\ref\TodoApp.dll
+D:\TodoApp\obj\Debug\net9.0\TodoApp.sourcelink.json
+D:\TodoApp\obj\Debug\net9.0\compressed\pnohrms5be-8mohj8vmvd.gz
+D:\TodoApp\obj\Debug\net9.0\compressed\h13s02nul4-rg8k0wuiy3.gz
+D:\TodoApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

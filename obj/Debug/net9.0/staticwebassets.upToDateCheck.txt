@@ -1,0 +1,6 @@
+wwwroot\styles.css
+wwwroot\index.html
+wwwroot\app.js
+D:\TodoApp\wwwroot\styles.css
+D:\TodoApp\wwwroot\index.html
+D:\TodoApp\wwwroot\app.js
